@@ -1,0 +1,68 @@
+{
+  "main": {
+    "name": "Emre Taskale",
+    "occupation": "Web Application Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "Your Go-To Full-Stack Javascript Web Developer for stunning Web Applications! I specialize in creating customized online experiences that truly reflect your unique brand. As a friendly and dedicated full-stack web developer, I love working with businesses and individuals to bring their digital dreams to life. Need an eye-catching e-commerce store, a beautiful portfolio site, or a user-friendly web application? Look no further! I'm here to deliver exceptional results that not only meet but exceed your expectations. With a client-first mindset, meticulous attention to detail, and a passion for perfection, I'll make sure your online presence stands out from the crowd. Let's team up and make your web dreams a reality!",
+    "contactmessage": "Get in touch with me to create your next dream project!",
+    "email": "gokisix@gmail.com",
+    "phone": "254-813-2833",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://www.goki.ai",
+    "resumedownload": "https://drive.google.com/file/d/1JtrDyv2UhNIRZLgGXFnWTE5Rqec-_Ysk/view?usp=drive_link",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/g-emre-taskale/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EM-T-Shells",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AI Storybook Generator (REACT JS MaterialUI Apollo-GraphQL chatGPT-API Mongoose-MongoDB",
+        "category": "",
+        "image": "storyPageOneDAI.jpg",
+        "url": "https://github.com/EM-T-Shells/TalesfromtheAlgorithm"
+      },
+      {
+        "title": "Garden App (Handlebars Bootstrap Express JS Sequelize-MySQL)",
+        "category": "",
+        "image": "plantParenthood_3.png",
+        "url": "https://github.com/EM-T-Shells/lookMaNoHandlebars/tree/main"
+      },
+      {
+        "title": "Data Management Tool (React JS Apollo-GraphQL Mongoose-MongoDB",
+        "category": "",
+        "image": "dataMGT.png",
+        "url": "https://github.com/EM-T-Shells/DataManagementTool/tree/main"
+      },
+      {
+        "title": "Front-End Website (HTML/CSS)",
+        "category": "",
+        "image": "captTs.png",
+        "url": "https://github.com/EM-T-Shells/captTsGreens"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Emre helped me build a website for my farm. From the onset Emre took the project as if it was his business. Emre invested time and effort demonstrating a genuine care for my business and what I wanted to present to the customer through the website. I'm sure he will do great as he begins his coding journey. I recommend him to anyone that wants a website built.",
+        "user": "Cesar Telles, Founder of Captain T's Greens: Farm and Cattle"
+      }
+    ]
+  }
+}
