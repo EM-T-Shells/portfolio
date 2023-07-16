@@ -18,20 +18,12 @@ const Footer = ({ data }) => {
       <div className="row">
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
-
           <ul className="copyright">
             <li>
-              Made by{" "}
-              <a title="PAPA" href="http://www.papareact.com/">
-                PAPA
-              </a>          
-            </li>
-            <li>
-            Modified by {" "}
+            Made by {" "}
               <a title="Goki" href="https://www.linkedin.com/in/g-emre-taskale/">  goki
               </a>   
             </li>
-      
           </ul>
         </div>
         <div id="go-top">
